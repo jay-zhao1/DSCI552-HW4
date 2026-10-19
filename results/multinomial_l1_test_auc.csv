@@ -1,0 +1,8 @@
+class,test_support,ovr_auc
+bending1,2,1.0
+bending2,2,0.9705882352941176
+cycling,3,1.0
+lying,3,1.0
+sitting,3,0.9166666666666666
+standing,3,1.0
+walking,3,1.0
