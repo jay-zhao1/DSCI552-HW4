@@ -1,0 +1,6 @@
+fold,fit_n,validation_n,selected_count,selected_features,accuracy,balanced_accuracy,auc
+1,55,14,3,"mean_s1_p1, mean_s2_p1, mean_s5_p1",0.9285714285714286,0.75,1.0
+2,55,14,2,"mean_s1_p1, mean_s5_p1",0.9285714285714286,0.75,0.6666666666666667
+3,55,14,2,"mean_s1_p1, mean_s5_p1",1.0,1.0,1.0
+4,55,14,3,"mean_s1_p1, mean_s5_p1, mean_s6_p1",1.0,1.0,1.0
+5,56,13,3,"mean_s1_p1, mean_s4_p1, mean_s5_p1",0.9230769230769231,0.5,1.0

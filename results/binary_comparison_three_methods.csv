@@ -1,0 +1,4 @@
+method,l,selected_features,cv_accuracy,test_accuracy,test_balanced_accuracy,test_auc
+Unpenalized + RFE,1,4,0.9857142857142858,1.0,1.0,1.0
+L1 logistic,11,8,0.9857142857142858,0.9473684210526315,0.875,1.0
+Firth + p-value backward,1,3,0.956043956043956,1.0,1.0,1.0
